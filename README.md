@@ -1,3 +1,14 @@
+# PunPun
+
+PunPun is a versatile bot created using the OpenAI API and powered by Discord.py. It's designed to offer a wide range of functionalities and enhance the user experience on Discord.
+
+# Setup 
+
+- create venv if you want
+- ```pip install -r requirements.txt```
+- get ur bot token and open ai api key
+- store all of your sensitive info in environment variables
+- run ```python main.py```
 
 # Python Discord Bot
 
