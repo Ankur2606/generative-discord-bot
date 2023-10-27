@@ -1,5 +1,8 @@
 # PunPun
 
+![hehe](https://github.com/Ankur2606/generative-discord-bot/assets/66749243/87ed7df9-772d-41d1-872f-d59eec5edca6)
+
+
 PunPun is a versatile bot created using the OpenAI API and powered by Discord.py. It's designed to offer a wide range of functionalities and enhance the user experience on Discord.
 
 # Setup 
